@@ -3,3 +3,4 @@ venv/
 __pycache__/
 sheets.py
 creds.json
+db.db
